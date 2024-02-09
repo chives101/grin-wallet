@@ -26,7 +26,7 @@
             cargoLock = {
               lockFile = ./Cargo.lock;
               outputHashes = {
-                "grin_api-5.2.0-beta.3" = "sha256-nP+3CaMPfzop5IOXDZLdZWqi4+UuNGt7WUadR8Ld08w=";
+                "grin_api-5.3.0-alpha.1" = "sha256-qxMmWCJBtiYsqBJgDA6km7XsToLR2fv/PUUZyM1uAF4=";
               };
             };
 
